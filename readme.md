@@ -18,6 +18,7 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Real Python](https://realpython.com/if-name-main-python/)
+* [Github Documention](https://docs.github.com/en)
+* [Visual Studio Code Documention](https://code.visualstudio.com/docs)
+* [Python Documention](https://docs.python.org/3/)
