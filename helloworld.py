@@ -1,4 +1,4 @@
-# salutation variable
+# Salutation variable
 greeting = "Hello World"
 
  
