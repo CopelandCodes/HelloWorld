@@ -1,20 +1,16 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This HelloWorld program is written in python within the Vscode IDE.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+This progam was created to facilite and prove complete integration of VS Code and Github for version control while demostrating basic language syntax and program structure. 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Python 3.13.3
 
-{Describe the programming language that you used}
+Visual Studio Code
+
+Github
 
 # Useful Websites
 
